@@ -2,7 +2,7 @@
 I am current student at **Salisbury University** and enjoy coding.
 
 # Known languages
-Typescript/Javascript, C++, C, PHP, Java, CSS, HTML
+Typescript/Javascript, C++, C, PHP, Java, CSS, HTML, SQL
 
 # IDE/Text editor
 Eclipse, Visual Studio Code, EMACS
