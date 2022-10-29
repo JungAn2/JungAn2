@@ -4,6 +4,9 @@ I am current student at **Salisbury University** and enjoy coding.
 # Known languages
 Typescript/Javascript, C++, C, PHP, Java, CSS, HTML, SQL
 
+# Other skills
+Wordpress, Jquery
+
 # IDE/Text editor
 Eclipse, Visual Studio Code, EMACS
 
