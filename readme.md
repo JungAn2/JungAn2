@@ -1,15 +1,6 @@
 # Intoduction
 I am current student at **Salisbury University** and enjoy coding.
 
-# Known languages
-Typescript/Javascript, C++, C, PHP, Java, CSS, HTML, SQL
-
-# Other skills
-Wordpress, Jquery
-
-# IDE/Text editor
-Eclipse, Visual Studio Code, EMACS
-
 # Classes Took
 - Fall 2022
   - COSC 426 - Software Engineering II
