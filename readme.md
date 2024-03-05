@@ -1,7 +1,19 @@
-# Intoduction
-I am current student at **Salisbury University** and enjoy coding.
+### Introduction
+Simple man who enjoys coding.
 
-# Classes Took
+<br>
+
+<details open>
+  <summary>📔 Github Stats</summary>
+  <br>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungAn2&theme=dark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungAn2&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/JungAn2)
+</details>
+
+<details>
+  <summary>🏫 Classes Took - Salisbury University</summary>
+  
 - Fall 2022
   - COSC 426 - Software Engineering II
   - COSC 450 - Operating System
@@ -25,7 +37,4 @@ I am current student at **Salisbury University** and enjoy coding.
 - Fall 2020
   - COSC 120 - Computer Science I
 
-# Github Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JungAn2)](https://github.com/JungAn2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungAn2&layout=compact)](https://github.com/JungAn2)
-
+</details>
