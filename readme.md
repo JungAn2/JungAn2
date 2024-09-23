@@ -1,8 +1,5 @@
 ![](images/github-header-image.png)
 <br>
-<h1 align="center">
-  Codename: Jungus
-</h1>
 
 <p align="center">
   IT System Administrator at SU
