@@ -35,14 +35,11 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/jungan2/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=jungan2&theme=transparent" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jungan2&show_icons=true&theme=transparent" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jungan2&show_icons=true&theme=transparent" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungan2&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" />
