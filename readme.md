@@ -64,6 +64,10 @@
   - CSDP 601 - Analysis and Design of Algorithm
   - CSDP 602 - Database Management Systems
 
+- Spring 2025
+  - CSDP 603 - Advanced Operating Systems
+  - CSDP 710 - Machine Learning
+  - CSDP 720 - Data Science & Analytics
 </details>
 
 <details>
