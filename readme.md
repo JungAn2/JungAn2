@@ -43,7 +43,7 @@
   <div align=center>
     <!---<a href="https://github.com/anuraghazra/github-readme-stats">
     </a>--->
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungan2&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungan2&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" style="pointer-events:none"/>
   </div>
   <br>
 
