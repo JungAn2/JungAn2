@@ -37,7 +37,7 @@
   <div align=center>
     <!---<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="pointer-events:none">
           </a>--->
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jungan2&show_icons=true&theme=transparent" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jungan2&show_icons=true&theme=transparent" style="pointer-events:none"/>
   </div>
   <br/>
   <div align=center>
