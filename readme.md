@@ -35,15 +35,15 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="pointer-events:none">
+    <!---<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="pointer-events:none">
+          </a>--->
       <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jungan2&show_icons=true&theme=transparent" />
-    </a>
   </div>
   <br/>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!---<a href="https://github.com/anuraghazra/github-readme-stats">
+    </a>--->
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungan2&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" />
-    </a>
   </div>
   <br>
 
